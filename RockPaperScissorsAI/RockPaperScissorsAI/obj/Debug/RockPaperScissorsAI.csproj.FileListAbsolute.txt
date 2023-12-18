@@ -1,0 +1,16 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe.config
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.g.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.pdb
