@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Neuron xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <weight1>204</weight1>
-  <weight2>687</weight2>
+  <weight1>417</weight1>
+  <weight2>969</weight2>
 </Neuron>

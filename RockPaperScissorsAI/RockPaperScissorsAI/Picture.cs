@@ -26,7 +26,6 @@ namespace RockPaperScissorsAI
                     blackAndWhiteImage.SetPixel(x, y, newColor);
                 }
             }
-
             return blackAndWhiteImage;
         }
 

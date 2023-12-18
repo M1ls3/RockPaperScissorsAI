@@ -23,7 +23,7 @@ namespace RockPaperScissorsAI
         public Neuron()
         {
             weight1 = 1;
-            weight2 = 20000;
+            weight2 = 7310;
         }
 
         public Neuron(int weight1, int weight2)
@@ -37,7 +37,7 @@ namespace RockPaperScissorsAI
             weight1 = weights[0];
             weight2 = weights[1];
         }
-
+        // метод пробного та помилкового (trial and error)
         static public Neuron Learning(Neuron[] neurons, Button rockButton, Button scissorsButton, Button paperButton)
         {
             Random random = new Random();
@@ -87,7 +87,7 @@ namespace RockPaperScissorsAI
                     {
                         aiOption = Option.Scissors;
                     }
-                    else if (n.weight2 < pixels && pixels < 20000)
+                    else if (n.weight2 < pixels && pixels < 7310)
                     {
                         aiOption = Option.Paper;
                     }
@@ -178,8 +178,8 @@ namespace RockPaperScissorsAI
             // Ініціалізація нейронів з випадковими вагами
             for (int i = 0; i < neuronAmount; i++)
             {
-                int weight1 = random.Next(1, 19999);
-                int weight2 = random.Next(weight1, 20000);
+                int weight1 = random.Next(1, 7309);
+                int weight2 = random.Next(weight1, 7310);
                 neurons[i] = new Neuron(weight1, weight2);
             }
 
@@ -200,8 +200,8 @@ namespace RockPaperScissorsAI
                     double weight1Change = NextGaussian(random, 0, difference);
                     double weight2Change = NextGaussian(random, 0, difference);
 
-                    int weight1 = (int)Math.Max(0, Math.Min(19999, bestNeuron.weight1 + weight1Change));
-                    int weight2 = (int)Math.Max(weight1, Math.Min(20000, bestNeuron.weight2 + weight2Change));
+                    int weight1 = (int)Math.Max(0, Math.Min(7309, bestNeuron.weight1 + weight1Change));
+                    int weight2 = (int)Math.Max(weight1, Math.Min(7310, bestNeuron.weight2 + weight2Change));
 
                     neurons[i] = new Neuron(weight1, weight2);
                 }
@@ -250,7 +250,7 @@ namespace RockPaperScissorsAI
             {
                 aiOption = Option.Scissors;
             }
-            else if (neuron.weight2 < pixels && pixels < 20000)
+            else if (neuron.weight2 < pixels && pixels < 7310)
             {
                 aiOption = Option.Paper;
             }
