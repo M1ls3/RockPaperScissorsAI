@@ -14,3 +14,19 @@ C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейрон�
 C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.CoreCompileInputs.cache
 C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.exe
 C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Нейронні мережі\Laba 3\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.pdb
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe.config
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.exe
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\bin\Debug\RockPaperScissorsAI.pdb
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\App.g.cs
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI_MarkupCompile.cache
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI_MarkupCompile.lref
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\MainWindow.baml
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.g.resources
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.Properties.Resources.resources
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.GenerateResource.cache
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.exe
+C:\!Dizox\Git\Repositories\RockPaperScissorsAI\RockPaperScissorsAI\RockPaperScissorsAI\obj\Debug\RockPaperScissorsAI.pdb
